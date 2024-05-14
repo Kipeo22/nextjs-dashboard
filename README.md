@@ -1,6 +1,6 @@
 ## Next.js App Router Course - Starter
 
-### 初めてのnextjs　, 公式ドキュメントのチュートリアルやりましてあ
+### 初めてのnextjs　, 公式ドキュメントのチュートリアルやりました
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
